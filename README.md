@@ -8,6 +8,6 @@ Hiện nay, tại một số cơ sở đào tạo sau trung học phổ thông n
 -	Mục tiêu đề tài: Dựa vào dữ liệu tốt nghiệp các khóa trước, dự đoán được khả năng tốt nghiệp của sinh viên (chưa tốt nghiệp / tốt nghiệp) tại trường Đại học Công nghệ Thông Tin – Đại học Quốc gia Thành phố Hồ Chí Minh
 -	Mục đích nghiên cứu: Tìm ra những yếu tố ảnh hưởng đến khả năng tốt nghiệp của sinh viên Đại học Công nghệ Thông Tin – Đại học Quốc gia Thành phố Hồ Chí Minh để đưa ra lưu ý và phương pháp học tập hiệu quả cho các sinh viên khóa sau.
 1.3. Đối tượng và phạm vi nghiên cứu
--	Dữ liệu đề tài nghiên cứu giới hạn trong trường đại học Công nghệ Thông tin – Đại học Quốc gia Thành phố Hồ Chí Minh gồm: 
-o	Tập dữ liệu tuyển sinh: dữ liệu của sinh viên trước khi vào trường: Kết quả đầu vào(điểm thi THPTQG, điểm đánh giá năng lực, điểm xét tuyển học bạ, sinh viên được tuyển thẳng/ ưu tiên xét tuyển), các thông tin cá nhân của sinh viên, các chứng chỉ sinh viên đã đạt được(nếu có).
-o	Tập dữ liệu kết quả trong tiến trình học: Dữ liệu điểm của các môn học trong từng học kỳ theo từng năm của sinh viên, điểm rèn luyện của sinh viên từng học kỳ, các chứng chỉ, những xử lý học vụ, bảo lưu của sinh viên.
+### Dữ liệu đề tài nghiên cứu giới hạn trong trường đại học Công nghệ Thông tin – Đại học Quốc gia Thành phố Hồ Chí Minh gồm: 
+  -	Tập dữ liệu tuyển sinh: dữ liệu của sinh viên trước khi vào trường: Kết quả đầu vào(điểm thi THPTQG, điểm đánh giá năng lực, điểm xét tuyển học bạ, sinh viên được tuyển thẳng/ ưu tiên xét tuyển), các thông tin cá nhân của sinh viên, các chứng chỉ sinh viên đã đạt được(nếu có).
+  - Tập dữ liệu kết quả trong tiến trình học: Dữ liệu điểm của các môn học trong từng học kỳ theo từng năm của sinh viên, điểm rèn luyện của sinh viên từng học kỳ, các chứng chỉ, những xử lý học vụ, bảo lưu của sinh viên.
